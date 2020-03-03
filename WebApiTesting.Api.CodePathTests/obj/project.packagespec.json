@@ -1,0 +1,79 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api.CodePathTests/WebApiTesting.Api.CodePathTests.csproj",
+    "projectName": "WebApiTesting.Api.CodePathTests",
+    "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api.CodePathTests/WebApiTesting.Api.CodePathTests.csproj",
+    "outputPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api.CodePathTests/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj": {
+            "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Mvc.Testing": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.2.0, )"
+        },
+        "Microsoft.Owin.Testing": {
+          "target": "Package",
+          "version": "[4.1.0, )"
+        },
+        "coverlet.collector": {
+          "target": "Package",
+          "version": "[1.0.1, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+    }
+  }
+}

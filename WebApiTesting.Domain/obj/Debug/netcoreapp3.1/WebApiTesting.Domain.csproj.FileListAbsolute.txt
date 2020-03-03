@@ -1,0 +1,8 @@
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/bin/Debug/netcoreapp3.1/WebApiTesting.Domain.deps.json
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/bin/Debug/netcoreapp3.1/WebApiTesting.Domain.dll
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/bin/Debug/netcoreapp3.1/WebApiTesting.Domain.pdb
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/obj/Debug/netcoreapp3.1/WebApiTesting.Domain.csprojAssemblyReference.cache
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/obj/Debug/netcoreapp3.1/WebApiTesting.Domain.AssemblyInfoInputs.cache
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/obj/Debug/netcoreapp3.1/WebApiTesting.Domain.AssemblyInfo.cs
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/obj/Debug/netcoreapp3.1/WebApiTesting.Domain.dll
+/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/obj/Debug/netcoreapp3.1/WebApiTesting.Domain.pdb
