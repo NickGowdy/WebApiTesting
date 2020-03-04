@@ -10,9 +10,9 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebApiTesting.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api", "WebApiTesting.Api.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebApiTesting.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain", "WebApiTesting.Domain.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebApiTesting.Logic, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Logic", "WebApiTesting.Logic.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebApiTesting.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api", "WebApiTesting.Api.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebApiTesting.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain", "WebApiTesting.Domain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebApiTesting.Logic, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic", "WebApiTesting.Logic.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiTesting.Api.CodePathTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

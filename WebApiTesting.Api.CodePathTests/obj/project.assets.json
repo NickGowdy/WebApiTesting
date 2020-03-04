@@ -7892,11 +7892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api.CodePathTests/WebApiTesting.Api.CodePathTests.csproj",
+      "projectUniqueName": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api.CodePathTests/WebApiTesting.Api.CodePathTests.csproj",
       "projectName": "WebApiTesting.Api.CodePathTests",
-      "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api.CodePathTests/WebApiTesting.Api.CodePathTests.csproj",
+      "projectPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api.CodePathTests/WebApiTesting.Api.CodePathTests.csproj",
       "packagesPath": "/Users/nicholasg/.nuget/packages/",
-      "outputPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api.CodePathTests/obj/",
+      "outputPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api.CodePathTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nicholasg/.config/NuGet/NuGet.Config"
@@ -7910,8 +7910,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj": {
-              "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj"
+            "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj": {
+              "projectPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj"
             }
           }
         }

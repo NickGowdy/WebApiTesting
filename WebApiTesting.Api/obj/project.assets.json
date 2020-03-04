@@ -883,11 +883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj",
+      "projectUniqueName": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj",
       "projectName": "WebApiTesting.Api",
-      "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj",
+      "projectPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/WebApiTesting.Api.csproj",
       "packagesPath": "/Users/nicholasg/.nuget/packages/",
-      "outputPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Api/obj/",
+      "outputPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nicholasg/.config/NuGet/NuGet.Config"
@@ -901,11 +901,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj": {
-              "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj"
+            "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj": {
+              "projectPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj"
             },
-            "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Logic/WebApiTesting.Logic.csproj": {
-              "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Logic/WebApiTesting.Logic.csproj"
+            "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/WebApiTesting.Logic.csproj": {
+              "projectPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/WebApiTesting.Logic.csproj"
             }
           }
         }

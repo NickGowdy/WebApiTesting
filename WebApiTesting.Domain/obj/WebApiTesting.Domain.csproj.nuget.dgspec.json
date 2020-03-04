@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj": {}
+    "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj": {}
   },
   "projects": {
-    "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj": {
+    "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
+        "projectUniqueName": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
         "projectName": "WebApiTesting.Domain",
-        "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
+        "projectPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
         "packagesPath": "/Users/nicholasg/.nuget/packages/",
-        "outputPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/obj/",
+        "outputPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nicholasg/.config/NuGet/NuGet.Config"

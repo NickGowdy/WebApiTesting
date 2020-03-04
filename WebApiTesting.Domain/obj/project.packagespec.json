@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
+    "projectUniqueName": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
     "projectName": "WebApiTesting.Domain",
-    "projectPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
-    "outputPath": "/Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Domain/obj/",
+    "projectPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/WebApiTesting.Domain.csproj",
+    "outputPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
