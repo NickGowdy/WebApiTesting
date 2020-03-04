@@ -40,3 +40,4 @@ msbuild.wrn
 .vs/
 .obj/
 
+/WebApiTesting.Api/bin/
