@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using WebApiTesting.Api.Models;
@@ -19,9 +20,9 @@ namespace WebApiTesting.Api.Controllers
         }
         
         [HttpGet("{personId}")]
-        public Person Get(int personId)
+        public async Task<Person> Get(int personId)
         {
-            var result = _personService.GetPerson(personId);
+            var result = await _personService.GetPerson(personId);
             var person = _mapper.Map<Domain.Models.Person, Person>(result);
             return person;
         }

@@ -3,4 +3,7 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)refit/5.1.67/buildTransitive/netstandard2.0/refit.targets" Condition="Exists('$(NuGetPackageRoot)refit/5.1.67/buildTransitive/netstandard2.0/refit.targets')" />
+  </ImportGroup>
 </Project>

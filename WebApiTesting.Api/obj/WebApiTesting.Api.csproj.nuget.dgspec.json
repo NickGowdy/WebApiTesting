@@ -14,7 +14,7 @@
         "outputPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicholasg/.config/NuGet/NuGet.Config"
+          "/Users/nicholasg/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -84,7 +84,7 @@
         "outputPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicholasg/.config/NuGet/NuGet.Config"
+          "/Users/nicholasg/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -105,6 +105,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Refit": {
+              "target": "Package",
+              "version": "[5.1.67, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -120,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -134,7 +140,7 @@
         "outputPath": "/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicholasg/.config/NuGet/NuGet.Config"
+          "/Users/nicholasg/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -174,7 +180,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     }

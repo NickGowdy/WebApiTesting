@@ -22,3 +22,9 @@
 /Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/Debug/netcoreapp3.1/staticwebassets/WebApiTesting.Api.StaticWebAssets.xml
 /Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/Debug/netcoreapp3.1/WebApiTesting.Api.dll
 /Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/Debug/netcoreapp3.1/WebApiTesting.Api.pdb
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/Debug/netcoreapp3.1/WebApiTesting.Api.csproj.CoreCompileInputs.cache
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/Debug/netcoreapp3.1/WebApiTesting.Api.genruntimeconfig.cache
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/bin/Debug/netcoreapp3.1/Refit.dll
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Api/obj/Debug/netcoreapp3.1/RefitStubs.g.cs

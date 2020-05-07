@@ -9,3 +9,16 @@
 /Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.csproj.CopyComplete
 /Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.dll
 /Users/nicholasg/RiderProjects/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.pdb
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/bin/Debug/netcoreapp3.1/WebApiTesting.Logic.deps.json
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/bin/Debug/netcoreapp3.1/WebApiTesting.Logic.dll
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/bin/Debug/netcoreapp3.1/WebApiTesting.Logic.pdb
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/bin/Debug/netcoreapp3.1/WebApiTesting.Domain.dll
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/bin/Debug/netcoreapp3.1/WebApiTesting.Domain.pdb
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.csprojAssemblyReference.cache
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.csproj.CoreCompileInputs.cache
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.AssemblyInfoInputs.cache
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.AssemblyInfo.cs
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.csproj.CopyComplete
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.dll
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/WebApiTesting.Logic.pdb
+/Users/nicholasg/Desktop/Repos/Personal/WebApiTesting/WebApiTesting.Logic/obj/Debug/netcoreapp3.1/RefitStubs.g.cs
